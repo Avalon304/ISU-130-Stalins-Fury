@@ -1,0 +1,10 @@
+<turret_01.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-0.0487118 -0.00456538 0.217116</min>
+    <max>0.0372882 0.0484676 0.270149</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/R111_ISU130/normal/lod0/Turret_01</nodefullVisual>
+</turret_01.model>

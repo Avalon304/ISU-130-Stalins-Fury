@@ -1,0 +1,10 @@
+<hull.model>
+  <materialNames>
+  </materialNames>
+  <visibilityBox>
+    <min>-1.58504 -0.578304 -3.52415</min>
+    <max>1.58504 1.64454 3.38206</max>
+  </visibilityBox>
+  <tank>	true	</tank>
+  <nodefullVisual>vehicles/Avalon's WoT Workshop/R111_ISU130/normal/lod0/Hull</nodefullVisual>
+</hull.model>
